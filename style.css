@@ -1,27 +1,55 @@
 body{
   background-color: black;
 }
-h1{
-  color: black;
-  text-align: center;
-  font-size: 30px;
-   font-style: oblique;
-}
-.SALMABAD{
-  background-color: #FF7F50;
+
+/* riffa and salmabad logo start------------------------------------------------------------------------------------*/
+
+.blackfire-logo{
   position: relative;
-padding-top:1px;
-padding-bottom:2px;
+padding-top:20px;
+padding-left:55px;
 }
 
-/*-- hyundai-kia -------------------------------------*/
-.hyundai{
-  position:absolute;
-  top: 150px;
-  left:200px;
+.riffa-salmabad-blackfire{
+  position: relative;
+padding-top:100px;
+padding-left: 40px;
+  text-align: center;
+  color: #D2691E;
+  font-size: 35px;
 }
-.kia{
-  position:absolute;
-  top: 150px;
-  left:800px;
+
+.riffa-salmabad-img{
+  position: relative;
+padding-left: 170px;
+padding-top: 30px;
+
 }
+/* riffa and salmabad logo end------------------------------------------------------------------------------------*/
+
+
+/* riffa logo start---------------------------------------------------------------------------------------------------*/
+.riffa{
+     transition-duration: 0.4s;
+      color: white;
+
+}
+.riffa:hover{
+   color:#D2691E;
+}
+/* riffa logo end ---------------------------------------------------------------------------------------------------*/
+
+/* salmabad logo start------------------------------------------------------------------------------------------------*/
+.salmabad{
+  transition-duration: 0.4s;
+   color: white;
+}
+.salmabad:hover{
+   color:#D2691E;
+}
+
+.salmabad-img{
+  position: relative;
+padding-left: 50px;
+}
+/* salmabad logo end---------------------------------------------------------------------------------------------------*/
