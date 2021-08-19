@@ -1,0 +1,27 @@
+body{
+  background-color: black;
+}
+h1{
+  color: black;
+  text-align: center;
+  font-size: 30px;
+   font-style: oblique;
+}
+.SALMABAD{
+  background-color: #FF7F50;
+  position: relative;
+padding-top:1px;
+padding-bottom:2px;
+}
+
+/*-- hyundai-kia -------------------------------------*/
+.hyundai{
+  position:absolute;
+  top: 150px;
+  left:200px;
+}
+.kia{
+  position:absolute;
+  top: 150px;
+  left:800px;
+}
